@@ -43,7 +43,7 @@ pip install -r requirements.txt
 3. Run the Jupyter Notebook
 
 ```bash
-jupyter notebook "Fake News Detection Project.ipynb"
+Jupyter Notebook "Fake News Detection Project.ipynb"
 ```
 
 ## 📈 Results
