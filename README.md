@@ -1,5 +1,3 @@
----
-
 # 📰 Fake News Detection Project
 
 This project aims to detect **fake news articles** using Machine Learning techniques. It explores text preprocessing, feature extraction, and classification models to distinguish between *real* and *fake* news.
@@ -62,6 +60,4 @@ Jupyter Notebook "Fake News Detection Project.ipynb"
 
 Contributions are welcome! Please open an issue or submit a pull request.
 
-
----
 
